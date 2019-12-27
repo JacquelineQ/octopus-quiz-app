@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+header {
+  text-align: center;
+}
+main {
+  border: 1px solid;
+  text-align: center;
+  padding: 20px;
+
+}
+
